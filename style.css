@@ -41,8 +41,12 @@
             font-size: 80px;
             text-align: center;
         }
+        h3{
+            padding-left: 20px;
+        }
         p{
             font-size: large;
+            padding-left: 30px;
         }
         #intro{
             position: static;
