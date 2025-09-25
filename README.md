@@ -1,5 +1,12 @@
-![Alt text](/Users/iCan Student/OneDrive/Pictures/Captures d’écran/Screenshot 2025-09-25 073032.png)
-# Suttontourism.github.io
+## Suttontourism.github.io
 
-Sutton tourism is here to hep you find activities to do while at Sutton, Quebec as well as around the small town
+Sutton tourism is here to hep you find activities to do while at Sutton, Quebec. a small town in Quebec's estrie region. The town is full of things todo and check out the website for activities.
 
+# the content of the site
+the website is full of actvities that you can do as a famliy and alone as well. The site has activities for everyone. check it out!
+
+
+
+
+# How it was built
+this site was built on html & css and a lot of dedication to the ocal comunity of Sutton.
